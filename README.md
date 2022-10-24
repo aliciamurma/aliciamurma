@@ -4,7 +4,8 @@ Hi there 👋
 
 ⚡ Ugly but functional code
 
-💬 Contact me:
+💬 Contact me
+
 email: amurcia-@student.42barcelona.com
 Linkedin: https://www.linkedin.com/in/aliciamurciamaya/
 
