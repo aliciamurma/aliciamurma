@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋
+
+🌱 I’m currently learning in 42 Barcelona
+https://badge42.vercel.app/api/v2/cl56x7ufz003509jr5i8cj5cl/stats?cursusId=21&coalitionId=206
+
+⚡ Ugly but functional code
+
+💬 Contact me:
+  email: amurcia-@student.42barcelona.com
+  Linkedin: https://www.linkedin.com/in/aliciamurciamaya/
 
 <!--
 **aliciamurma/aliciamurma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
