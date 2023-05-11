@@ -2,7 +2,7 @@ Hi there 👋
 
 🌱 I’m currently learning in 42 Barcelona
 
-⚡ Ugly but functional code
+⚡ 
 
 💬 Contact me
 
