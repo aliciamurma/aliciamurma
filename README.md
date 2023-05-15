@@ -2,7 +2,7 @@ Hi there 👋
 
 🌱 I’m currently learning in 42 Barcelona
 
-⚡ 
+⚡ C/C++ Software Developer
 
 💬 Contact me
 
