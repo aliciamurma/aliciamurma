@@ -6,7 +6,7 @@ Hi there 👋
 
 💬 Contact me
 
-  email: amurcia-@student.42barcelona.com
+  email: aliciamurciamaya@gmail.com
   
   Linkedin: https://www.linkedin.com/in/aliciamurciamaya/
 
