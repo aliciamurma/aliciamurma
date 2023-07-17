@@ -2,7 +2,9 @@ Hi there 👋
 
 🌱 I’m currently learning in 42 Barcelona
 
-⚡ C/C++ Software Developer
+⚡ C/C++ Software developer
+🔭 Biochemist and biotechnologist
+🔭 Electrochemical sensors developer with biomedical applications 
 
 💬 Contact me
 
