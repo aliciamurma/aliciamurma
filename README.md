@@ -6,7 +6,7 @@ Hi there 👋
 
 🔭 Biochemist and biotechnologist
 
-🔭 Electrochemical sensors developer with biomedical applications 
+🔭 Developer of electrochemical sensors with biomedical applications
 
 💬 Contact me
 
